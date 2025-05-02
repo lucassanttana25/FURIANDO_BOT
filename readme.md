@@ -31,7 +31,21 @@ Este projeto é um chatbot desenvolvido em **Python** para fãs do time de CS:GO
 
 1. Clone este repositório
 2. Configure suas chaves no arquivo `keys.py`
-3. Execute o arquivo principal:
+3. Configure o caminho correto para a imagem do **FURIANDO**
+4. Execute o arquivo principal:
+
+## 💬 Contato e Créditos
+
+Este bot foi criado como parte do desafio **Experiência Conversacional FURIA**.  
+Desenvolvido por: **Lucas Santana Alves**
+
+- 📧 lucassantanaalves@gmail.com.br
+- 🐙 [GitHub](https://github.com/lucassanttana25) 
+- 📷 [Instagram](https://www.instagram.com/lucassanttana25)
+
+```clone
+https://github.com/lucassanttana25/FURIANDO_BOT.git
 
 ```bash
 python furiando.py
+
