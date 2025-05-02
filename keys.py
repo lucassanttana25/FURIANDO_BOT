@@ -1,0 +1,5 @@
+# Token do Telegram Bot
+TELEGRAM_BOT="SEU TOKEN AQUI"
+
+# Token do GEMINI
+GEMINI_API_KEY='SEU TOKEN AQUI'
