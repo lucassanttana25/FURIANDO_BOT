@@ -43,9 +43,9 @@ Desenvolvido por: **Lucas Santana Alves**
 - 🐙 [GitHub](https://github.com/lucassanttana25) 
 - 📷 [Instagram](https://www.instagram.com/lucassanttana25)
 
-```clone
+```bash
 https://github.com/lucassanttana25/FURIANDO_BOT.git
 
-```bash
+
 python furiando.py
 
